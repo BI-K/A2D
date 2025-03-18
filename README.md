@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/40befe73-d7d2-483b-9f19-b4a696d70915" width="200">
+
 # Algorithm2Domain (A2D) 
 ## Work in progress
 A2D is  a meta-repository for benchmarking of domain adaptation performance managed by [NFDI4DataScience](https://www.nfdi4datascience.de/) consortium and the [Institute for Biomedical Informatics](https://bik.uni-koeln.de/) (University Hospital of Cologne).
