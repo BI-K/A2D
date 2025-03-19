@@ -4,3 +4,6 @@
 [submodule "Algorithm2Domain-Integrative-Benchmarking"]
 	path = Algorithm2Domain-Integrative-Benchmarking
 	url = https://github.com/BI-K/Algorithm2Domain-Integrative-Benchmarking
+[submodule "Algorithm2Domain-Guidelines-and-Standards"]
+	path = Algorithm2Domain-Guidelines-and-Standards
+	url = https://github.com/BI-K/Algorithm2Domain-Guidelines-and-Standards
