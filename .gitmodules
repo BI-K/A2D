@@ -1,6 +1,3 @@
-[submodule "Algorithm2Domain-Datasets"]
-	path = Algorithm2Domain-Datasets
-	url = https://github.com/BI-K/Algorithm2Domain-Datasets
 [submodule "Algorithm2Domain-Integrative-Benchmarking"]
 	path = Algorithm2Domain-Integrative-Benchmarking
 	url = https://github.com/BI-K/Algorithm2Domain-Integrative-Benchmarking
