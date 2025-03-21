@@ -4,3 +4,6 @@
 [submodule "Algorithm2Domain-Guidelines-and-Standards"]
 	path = Algorithm2Domain-Guidelines-and-Standards
 	url = https://github.com/BI-K/Algorithm2Domain-Guidelines-and-Standards
+[submodule "Algorithm2Domain-Datasets"]
+	path = Algorithm2Domain-Datasets
+	url = https://github.com/BI-K/Algorithm2Domain-Datasets
